@@ -36,7 +36,7 @@ Pratikum 8 Web Pemograman :
 ![image](https://user-images.githubusercontent.com/85074523/120117627-f48fd000-c142-11eb-8463-0e862a0ef6dc.png)
 
 9. hasil outputnya :
-ttttttttttttttttttttttttttttttttttttttttttttttttttt
+
 ![image](https://user-images.githubusercontent.com/85074523/120117689-37ea3e80-c143-11eb-9484-f6be6985a22a.png)
  
  maka barang akan bertambah :
