@@ -45,3 +45,27 @@ Pratikum 8 Web Pemograman :
 
 10. Mengubah Data (Update) membuat file baru ubah.php :
 
+![image](https://user-images.githubusercontent.com/85074523/120246822-3f364880-c226-11eb-9c89-61168e49adc4.png)
+
+![image](https://user-images.githubusercontent.com/85074523/120246840-507f5500-c226-11eb-84e9-9cebfd06741d.png)
+
+outputnya : 
+
+![image](https://user-images.githubusercontent.com/85074523/120246861-62f98e80-c226-11eb-82ad-2440cdca5231.png)
+
+11. Menghapus Data (Delete) membuat file hapus.php :
+
+![image](https://user-images.githubusercontent.com/85074523/120246929-989e7780-c226-11eb-9910-fb84abef390e.png)
+
+outputnya pilihan yang akan di hapus :
+
+![image](https://user-images.githubusercontent.com/85074523/120247002-e1eec700-c226-11eb-90f8-026d422d8e8c.png)
+
+hasilnya akan ke hilang :
+
+![image](https://user-images.githubusercontent.com/85074523/120247033-fd59d200-c226-11eb-9adb-a5452d3b9c52.png)
+
+
+
+
+
